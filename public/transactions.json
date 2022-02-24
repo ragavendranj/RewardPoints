@@ -1,0 +1,145 @@
+{
+  "profile": {
+    "customers": [
+      {
+        "number": 0,
+        "period": [
+          {
+            "month": "December",
+            "transactions": [
+              {
+                "date": "12/15/2022",
+                "dollars": 120
+              },
+              {
+                "date": "12/15/2022",
+                "dollars": 120
+              },
+              {
+                "date": "12/25/2022",
+                "dollars": 120
+              }
+            ]
+          },
+          {
+            "month": "January",
+            "transactions": [
+              {
+                "date": "1/15/2022",
+                "dollars": 200
+              },
+              {
+                "date": "1/15/2022",
+                "dollars": 700
+              },
+              {
+                "date": "1/21/2022",
+                "dollars": 150
+              }
+            ]
+          },
+          {
+            "month": "February",
+            "transactions": [
+              {
+                "date": "2/15/2022",
+                "dollars": 200
+              },
+              {
+                "date": "2/15/2022",
+                "dollars": 700
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 1,
+        "period": [
+          {
+            "month": "December",
+            "transactions": [
+              {
+                "date": "12/15/2022",
+                "dollars": 120
+              },
+              {
+                "date": "12/15/2022",
+                "dollars": 120
+              },
+              {
+                "date": "12/25/2022",
+                "dollars": 120
+              }
+            ]
+          },
+          {
+            "month": "January",
+            "transactions": [
+              {
+                "date": "1/15/2022",
+                "dollars": 120
+              },
+              {
+                "date": "1/15/2022",
+                "dollars": 500
+              },
+              {
+                "date": "1/25/2022",
+                "dollars": 300
+              }
+            ]
+          },
+          {
+            "month": "February",
+            "transactions": [
+              {
+                "date": "2/15/2022",
+                "dollars": 200
+              },
+              {
+                "date": "2/15/2022",
+                "dollars": 700
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "period": [
+          {
+            "month": "January",
+            "transactions": [
+              {
+                "date": "1/15/2022",
+                "dollars": 120
+              },
+              {
+                "date": "1/15/2022",
+                "dollars": 500
+              },
+              {
+                "date": "1/25/2022",
+                "dollars": 300
+              }
+            ]
+          },
+          {
+            "month": "February",
+            "transactions": [
+              {
+                "date": "2/15/2022",
+                "dollars": 200
+              },
+              {
+                "date": "2/15/2022",
+                "dollars": 700
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
