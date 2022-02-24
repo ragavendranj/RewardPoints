@@ -86,10 +86,10 @@ class RewardAmount extends Component {
           return (
             <div key={index}>
               <h4>
-                Customer : {ele.customer_no}
+              <label for="customerNo">Customer No : </label>{ele.customer_no}
               </h4>
               <h4>
-                Total per month : {monthlyTotalPerCustomer}
+              <label for="totalPerMonth">Total per month : </label>{monthlyTotalPerCustomer}
               </h4>
               <table
                 style={{ marginLeft: "25px", width: 500, border: "1px solid" }}
